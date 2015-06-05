@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+I think it includes the files in the folder in the repository. It's required to have those
+files available to commit
+
+How is the staging area different from the working directory and the repository? What value do 
+you think it offers?
+The staging area is more of a snapshot of the files as you want them to be committed. The working 
+directory is more of a version of the last snapshot that you are currently modifying that will be
+later staged before committing. The value it adds is that you can prepare your files exactly as 
+you want them for the next commit. (Craft commits exactly how you want them)
