@@ -8,3 +8,8 @@ The staging area is more of a snapshot of the files as you want them to be commi
 directory is more of a version of the last snapshot that you are currently modifying that will be
 later staged before committing. The value it adds is that you can prepare your files exactly as 
 you want them for the next commit. (Craft commits exactly how you want them)
+
+What are some situations whe branches would be helpful in keeping your history organized? How
+would branches help?
+Branches are useful to try experimental features without jeopardizing the main project. You can
+do this in parallel and then merge files if you are happy/satisfied with the new features.
