@@ -12,3 +12,7 @@ Forks are copies of projects inside Github, clones are copies also but from Gith
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Having the last known state of the remote in you local repository is helpful to continue working while
 you are offline since you will have access to changes made by others
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Whenever you want to work on some parallel feature or experimental change and don't want to mess the main
+project.
